@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="editTextShape" parent="ShapeAppearance.Material3.SmallComponent">
+       <item name="cornerFamily">rounded</item>
+       <item name="cornerSize">25dp</item>
+   </style>
+
+
+</resources>
